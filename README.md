@@ -2,7 +2,6 @@
 
 ## Backend/Mobile Software Engineer
 
-* 🌍  I'm based in Tbilisi
 * 🖥️  See my portfolio at [PlayStore](https://play.google.com/store/apps/developer?id=artemkaxboy)
 
 <a href="https://www.github.com/artemkaxboy" target="_blank" rel="noreferrer"><img
