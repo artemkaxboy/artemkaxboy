@@ -2,8 +2,6 @@
 
 ## Backend/Mobile Software Engineer
 
-* 🖥️  See my portfolio at [PlayStore](https://play.google.com/store/apps/developer?id=artemkaxboy)
-
 <a href="https://www.github.com/artemkaxboy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/artemkaxboy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
